@@ -5,5 +5,7 @@ function logInToEditChanges(pass){
   }
 }
 function makeNewPost(){
-  if(allow)
+  if(allowEdits){
+    var post = "Anantha Vemulapati:";
+  }
 }
